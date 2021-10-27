@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Yonex Astrox",
-      "price": 199,
-      "quantity": 20,
-      "selected": true,
-      "available": false
-    },
-    {
       "id": 2,
       "name": "Yonex Duora",
       "price": 150,
@@ -25,10 +17,18 @@
       "id": 4
     },
     {
+      "name": "Yonex Armortec",
+      "price": 150,
+      "quantity": 1,
+      "selected": true,
+      "available": true,
+      "id": 1
+    },
+    {
       "id": 5,
-      "name": "Armortech",
-      "price": "160",
-      "quantity": "1",
+      "name": "Yonex Astrox",
+      "price": "150",
+      "quantity": "6",
       "selected": true,
       "available": true
     }
